@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tamilandroo.ytsaver"
+4    android:versionCode="3"
+5    android:versionName="3.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:6:5-78
+12-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:9:22-77
+15
+16    <application
+16-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:11:5-32:19
+17        android:allowBackup="true"
+17-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:12:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.5.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\2245221c36e2911ed0c78617191e7497\core-1.5.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:excludeFromRecents="true"
+20-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:17:9-42
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:13:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:14:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:15:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:16:9-35
+25        android:taskAffinity=""
+25-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:18:9-32
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:19:9-40
+27        <activity
+27-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:20:9-31:20
+28            android:name="com.tamilandroo.ytsaver.MainActivity"
+28-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:20:19-70
+29            android:windowSoftInputMode="stateHidden" >
+29-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:21:13-54
+30            <intent-filter>
+30-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:22:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:23:17-69
+31-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:24:17-77
+33-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35            <intent-filter>
+35-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:26:13-30:29
+36                <action android:name="android.intent.action.SEND" />
+36-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:27:17-68
+36-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:27:25-66
+37
+38                <category android:name="android.intent.category.DEFAULT" />
+38-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:28:17-75
+38-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:28:27-73
+39
+40                <data android:mimeType="text/plain" />
+40-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:29:17-55
+40-->C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:29:23-52
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>

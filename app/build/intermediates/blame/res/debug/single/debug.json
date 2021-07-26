@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\drawable_video_formats_style.xml.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\drawable\\video_formats_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\drawable_insta.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\drawable\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yticon.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\drawable\\yticon.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\menu_option.xml.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\menu\\option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Poovarasan\\AndroidStudioProjects\\YTSaver\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    }
+]
