@@ -4,7 +4,7 @@ ADDED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\Androi
 INJECTED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:2:1-34:12
-MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\a19ad1e29d16943bc514d187ef652ff5\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\1e51c8614d5111707b3027409e200529\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:2:1-18:12
 MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\7803431922bd8b957cc86a0a0e643b6a\jetified-js-evaluator-for-android-v4.0.0\AndroidManifest.xml:2:1-16:12
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\b8db8c226bccc579bcc02bebc2dba10e\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\28334bdeae13b3192b7a362b803144f3\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
@@ -51,8 +51,8 @@ INJECTED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\And
 		ADDED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:5:5-66
-MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\a19ad1e29d16943bc514d187ef652ff5\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:11:5-67
-MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\a19ad1e29d16943bc514d187ef652ff5\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:11:5-67
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\1e51c8614d5111707b3027409e200529\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:11:5-67
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\1e51c8614d5111707b3027409e200529\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -69,8 +69,8 @@ ADDED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\Androi
 		ADDED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:9:22-77
 application
 ADDED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml:11:5-32:19
-MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\a19ad1e29d16943bc514d187ef652ff5\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:13:5-16:19
-MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\a19ad1e29d16943bc514d187ef652ff5\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:13:5-16:19
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\1e51c8614d5111707b3027409e200529\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:13:5-16:19
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\1e51c8614d5111707b3027409e200529\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:13:5-16:19
 MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\7803431922bd8b957cc86a0a0e643b6a\jetified-js-evaluator-for-android-v4.0.0\AndroidManifest.xml:11:5-14:19
 MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\7803431922bd8b957cc86a0a0e643b6a\jetified-js-evaluator-for-android-v4.0.0\AndroidManifest.xml:11:5-14:19
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\28334bdeae13b3192b7a362b803144f3\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
@@ -133,8 +133,8 @@ uses-sdk
 INJECTED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Poovarasan\AndroidStudioProjects\YTSaver\app\src\main\AndroidManifest.xml
-MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\a19ad1e29d16943bc514d187ef652ff5\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\a19ad1e29d16943bc514d187ef652ff5\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\1e51c8614d5111707b3027409e200529\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\1e51c8614d5111707b3027409e200529\jetified-android-youtubeExtractor-master-SNAPSHOT\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\7803431922bd8b957cc86a0a0e643b6a\jetified-js-evaluator-for-android-v4.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\7803431922bd8b957cc86a0a0e643b6a\jetified-js-evaluator-for-android-v4.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Poovarasan\.gradle\caches\transforms-2\files-2.1\b8db8c226bccc579bcc02bebc2dba10e\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41

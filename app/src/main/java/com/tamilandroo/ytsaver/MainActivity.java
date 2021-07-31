@@ -130,61 +130,27 @@ public class MainActivity extends AppCompatActivity {
                     Glide.with(MainActivity.this).load(thumbnailUri).into(ytImg);
                 }
 
-                if (ytFiles == null) {
-                    // Something went wrong we got no urls. Always check this.
-                    return;
-                }
-                // Iterate over itags
-                for (int i = 0, itag; i < ytFiles.size(); i++) {
-                    itag = ytFiles.keyAt(i);
-                    // ytFile represents one file with its url and meta data
-                    YtFile ytFile = ytFiles.get(itag);
+                if (ytFiles != null) {
+                    vidName.setText(vMeta.getTitle());
 
-                    // Just add videos in a decent format => height -1 = audio
-                    if (ytFile.getFormat().getHeight() == -1 || ytFile.getFormat().getHeight() >= 360) {
-                        vidName.setText(vMeta.getTitle());
-                        addButtonToMainLayout(vMeta.getTitle(), ytFile);
+                    int itag = 22;
+                    String downloadUrl = ytFiles.get(itag).getUrl();
+
+                    String videoTitle = vMeta.getTitle();
+
+                    String filename;
+                    if (videoTitle.length() > 55) {
+                        filename = videoTitle.substring(0, 55) + ".mp4";
+                    } else {
+                        filename = videoTitle + ".mp4";
                     }
+                    filename = filename.replaceAll("[\\\\><\"|*?%:#/]", "");
+                    downloadFromUrl(downloadUrl, videoTitle, filename);
+
                 }
             }
-        }.extract(youtubeLink, true, false);
-    }
+        }.extract(youtubeLink);
 
-    private void addButtonToMainLayout(final String videoTitle, final YtFile ytfile) {
-        // Display some buttons and let the user choose the format
-
-        String btnText = (ytfile.getFormat().getHeight() == -1) ? "Audio " +
-                ytfile.getFormat().getAudioBitrate() + " kbit/s" :
-                ytfile.getFormat().getHeight() + "p";
-        btnText += (ytfile.getFormat().isDashContainer()) ? " dash" : "";
-        Button btn = new Button(this);
-        btn.setTextSize(18);
-        btn.setTextColor(getResources().getColor(R.color.white));
-        btn.setBackgroundResource(R.drawable.video_formats_style);
-
-        LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT
-        );
-        params.setMargins(0, 15, 0, 0);
-        btn.setLayoutParams(params);
-
-        btn.setText(btnText);
-
-        btn.setOnClickListener(new OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                String filename;
-                if (videoTitle.length() > 55) {
-                    filename = videoTitle.substring(0, 55) + "." + ytfile.getFormat().getExt();
-                } else {
-                    filename = videoTitle + "." + ytfile.getFormat().getExt();
-                }
-                filename = filename.replaceAll("[\\\\><\"|*?%:#/]", "");
-                downloadFromUrl(ytfile.getUrl(), videoTitle, filename);
-            }
-        });
-        mainLayout.addView(btn);
     }
 
     private void downloadFromUrl(String youtubeDlUrl, String downloadTitle, String fileName) {
